@@ -16,7 +16,7 @@ Found in "playerWallets".
 * rawSilverValue is a hexedecimal representation of the silver value
 * bronze is the parsed bronze value
 * rawBronzeValue is a hexedecimal representation of the bronze value
-* server is an enumarted value, either TWEL, TWSIPTAH or TWSW
+* server is an enumerated value, either TWEL, TWSIPTAH or TWSW
 * timestampUTC is the string representation of the timestamp at which the data was taken (UTC)
 
 ## Clan Banker Wallet
@@ -28,7 +28,7 @@ Found in "clanBankerWallets"
 * silver is the silver value
 * bronze is the bronze value
 * timestampUTC is the string representation of the timestamp at which the data was taken (UTC)
-* server is an enumarted value, either TWEL, TWSIPTAH or TWSW
+* server is an enumerated value, either TWEL, TWSIPTAH or TWSW
 
 ## Player Banker Wallet
 
@@ -39,7 +39,7 @@ Found in "clanBankerWallets"
 * silver is the silver value
 * bronze is the bronze value
 * timestampUTC is the string representation of the timestamp at which the data was taken (UTC)
-* server is an enumarted value, either TWEL, TWSIPTAH or TWSW
+* server is an enumerated value, either TWEL, TWSIPTAH or TWSW
 
 ## Players
 * playerId is the persistent ID of the player, does not change with name changes
